@@ -1,0 +1,15 @@
+#los Jugadores Solo No Pueden Comer Carne
+veganos: false
+#probabilidad de los totems al 50%
+totems: false
+#efecto de pociones para los mobs
+#todos los efectos son con power 5
+salto: false
+velocidad: false
+invisivilidad: false
+velocidadacuatica: false
+antiLeche: false
+
+#opciones locas y experimentales
+#genera una explosion cuando un mob se genera
+spawnExplosion: false

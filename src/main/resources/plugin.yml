@@ -1,0 +1,10 @@
+name: Cyanuront2
+version: '1.1'
+main: cyanuront.core.Main
+api-version: 1.19
+authors: [ RodrigoLeon ]
+description: rodrigo es la verga EZ
+
+commands:
+  cyanuront2:
+    description: reload el plugin
